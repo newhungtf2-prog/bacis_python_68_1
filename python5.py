@@ -22,4 +22,3 @@ for fruit in fruits:
     print(fruit)
     if fruit == "banana":
         break
-    
